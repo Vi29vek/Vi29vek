@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning full stack developer
 
 - 📫 twitter- vi29vek
-- 📫 linkedin- Vivek 
+
 
 <!---
 vi29vek/vi29vek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
