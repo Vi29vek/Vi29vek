@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vivek
-- 👀 I’m interested in web development and problem solving
-- 🌱 I’m currently learning full stack developement
+- 👀 I’m interested in web development, problem solving and Data Science
+- 🌱 I’m currently learning full stack Data Science
 
 - 📫 twitter- vi29vek
 
